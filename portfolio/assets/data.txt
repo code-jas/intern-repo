@@ -1,0 +1,41 @@
+name: John Angelo Silvestre,
+jobTitle: Full-Stack Developer,
+shortBio:  experience in web design and development, knowledge, producing quality work.,
+email: johnangelo.silvestre04@gmail.com,
+location: Manila City, Metro Manila, Philippines 1014
+contact: (+63)956 214 1708
+socialLinks{
+   linkedIn: https://www.linkedin.com/in/johnangelo-silvestre/,
+   github: https://github.com/code-jas,
+   instagram: https://www.instagram.com/iamgroot04/,
+   
+},
+downloadCV: assets/pdf/john-angelo-silvestre-resume.pdf,
+education: [
+   {
+   major: "Bachelor of Science in Information Technology",
+   institution:  "Technological University of the Philippines",
+   batchYear : "July 2019 - Present"
+   },
+   {
+   major: "Information Communication and Techology",
+   institution:  "Arellano University",
+   batchYear : "July 2017 - May 2019"
+   },
+]
+
+
+
+
+My name is John Angelo, and I work as a full-stack web developer. I have expertise in creating responsive web designs using HTML, CSS, and various JS libraries and frameworks. 
+
+
+I strive to enhance my skills continuously and put in great effort to excel at my job. As a full-stack  web developer, I have acquired discipline and the right mindset to succeed. I remain motivated to pursue my aspirations and achieve my goals. I value collaboration and teamwork. I believe that effective communication and a positive attitude are essential to producing high-quality work 
+
+skills
+project
+logo
+images 
+
+
+
